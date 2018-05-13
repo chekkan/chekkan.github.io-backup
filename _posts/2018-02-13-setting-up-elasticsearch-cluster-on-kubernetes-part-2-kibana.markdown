@@ -37,7 +37,7 @@ elasticsearch   1         1         1            1           22m
 kibana          1         1         1            0           2m
 ```
 
-#### Pro Tip ####
+**Pro tip**
 You can keep watching the progress of your pod creation using the command:
 ```
 kubectl get pods -w -l run=kibana
