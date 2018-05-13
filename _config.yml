@@ -16,7 +16,8 @@
 title: Chekkan's Blog
 email: harish_babu@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
-  My personal blog discussing mostly technical challenges that I face professionaly.
+  My personal blog discussing mostly technical articles and tutorials that I
+  faced professionaly.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: chekkanz

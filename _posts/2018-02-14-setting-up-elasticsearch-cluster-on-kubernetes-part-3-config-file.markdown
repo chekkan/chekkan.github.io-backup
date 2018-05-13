@@ -11,9 +11,9 @@ tags:
 - kubernetes
 ---
 
-[Part 1 - Setting up Single Node Elasticsearch](https://chekkan.com/setting-up-elasticsearch-cluster-on-kubernetes-part-1/)
-[Part 2 - Setting up Kibana Service](https://chekkan.com/setting-up-elasticsearch-cluster-on-kubernetes-part-2-kibana/)
-Part 3 - Kubernetes Configuration Files
+- [Part 1 - Setting up Single Node Elasticsearch]({% post_url 2018-01-11-setting-up-elasticsearch-cluster-on-kubernetes-part-1 %})
+- [Part 2 - Setting up Kibana Service]({% post_url 2018-02-13-setting-up-elasticsearch-cluster-on-kubernetes-part-2-kibana %})
+- Part 3 - Kubernetes Configuration Files
 
 Now that we have a single node elasticsearch service and kibana to monitor the cluster, lets try to capture the work so far into kubernetes configuration file.
 

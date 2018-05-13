@@ -12,11 +12,12 @@ tags:
 
 This is a continuation of the previos blog post. 
 
-[Part 1 - Setting up Single Node Elasticsearch](https://chekkan.com/setting-up-elasticsearch-cluster-on-kubernetes-part-1/)
-Part 2 - Setting up Kibana Service
-Part 3 - Kubernetes Configuration Files (Coming soon)
+- [Part 1 - Setting up Single Node Elasticsearch]({% post_url 2018-01-11-setting-up-elasticsearch-cluster-on-kubernetes-part-1 %})
+- Part 2 - Setting up Kibana Service
+- [Part 3 - Kubernetes Configuration Files]({% post_url 2018-02-14-setting-up-elasticsearch-cluster-on-kubernetes-part-3-config-file %})
 
-## Setup Kibana
+Setup Kibana
+------------
 Let's try to setup kibana pointing to our elasticsearch single node cluster.
 
 ```
@@ -36,7 +37,7 @@ elasticsearch   1         1         1            1           22m
 kibana          1         1         1            0           2m
 ```
 
-#### Pro Tip
+#### Pro Tip ####
 You can keep watching the progress of your pod creation using the command:
 ```
 kubectl get pods -w -l run=kibana
@@ -63,4 +64,4 @@ kubectl expose deployment kibana --type=LoadBalancer
 ```
 
 Open kibana using `minikube service kibana`.
-![Screen-Shot-2018-02-13-at-11.18.40](/content/images/2018/02/Screen-Shot-2018-02-13-at-11.18.40.png)
+![Screen-Shot-2018-02-13-at-11.18.40](https://s3-eu-west-1.amazonaws.com/images.chekkan.com/Screen-Shot-2018-02-13-at-11.18.40.png)
