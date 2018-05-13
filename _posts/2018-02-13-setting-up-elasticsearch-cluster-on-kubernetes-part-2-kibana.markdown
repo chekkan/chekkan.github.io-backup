@@ -2,6 +2,7 @@
 layout: post
 title: Setting up Elasticsearch Cluster on Kubernetes - Part 2 - Kibana
 date: '2018-02-13 11:23:10'
+permalink: /setting-up-elasticsearch-cluster-on-kubernetes-part-2-kibana/
 tags:
 - elasticsearch
 - docker

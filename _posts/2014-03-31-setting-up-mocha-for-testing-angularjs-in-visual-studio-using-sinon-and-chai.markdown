@@ -2,6 +2,7 @@
 layout: post
 title: Setting up mocha for testing AngularJS in Visual Studio using sinon, and chai
 date: '2014-03-31 21:18:00'
+permalink: /setting-up-mocha-for-testing-angularjs-in-visual-studio-using-sinon-and-chai/
 tags:
 - angularjs
 - chai

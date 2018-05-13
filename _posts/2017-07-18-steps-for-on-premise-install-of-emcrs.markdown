@@ -2,6 +2,7 @@
 layout: post
 title: Steps for Installing SharePoint Provider Hosted App On Premise
 date: '2017-07-18 22:37:00'
+permalink: /steps-for-on-premise-install-of-emcrs/
 tags:
 - sharepoint
 - sharepoint-2013

@@ -2,6 +2,7 @@
 layout: post
 title: Release Management Service and VSTS Team Build
 date: '2017-07-25 22:38:00'
+permalink: /release-management-service-and-team-build/
 tags:
 - vsts
 - powershell-dsc

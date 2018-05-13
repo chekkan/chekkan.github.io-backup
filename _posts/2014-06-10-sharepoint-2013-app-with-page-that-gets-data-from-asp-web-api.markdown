@@ -2,6 +2,7 @@
 layout: post
 title: SharePoint 2013 App with Page that gets data from ASP Web Api
 date: '2014-06-10 13:35:00'
+permalink: /sharepoint-2013-app-with-page-that-gets-data-from-asp-web-api/
 tags:
 - sharepoint
 - cors

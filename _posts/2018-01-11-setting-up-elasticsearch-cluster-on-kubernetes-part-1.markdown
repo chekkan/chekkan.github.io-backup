@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Setting up Elasticsearch cluster on Kubernetes - Part 1 - Single Node Cluster
+permalink: /setting-up-elasticsearch-cluster-on-kubernetes-part-1/
 date: '2018-01-11 23:44:22'
 tags:
 - elasticsearch

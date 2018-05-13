@@ -3,6 +3,7 @@ layout: post
 title: Setting Up Elasticsearch Cluster on Kubernetes - Part 3 - Configuration File
 featured: true
 date: '2018-02-14 11:46:00'
+permalink: /setting-up-elasticsearch-cluster-on-kubernetes-part-3-config-file/
 tags:
 - elasticsearch
 - docker

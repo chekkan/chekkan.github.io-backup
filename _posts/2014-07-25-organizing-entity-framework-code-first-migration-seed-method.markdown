@@ -2,6 +2,7 @@
 layout: post
 title: Organizing Entity Framework Code First Migration Seed Method
 date: '2014-07-25 17:36:00'
+permalink: /organizing-entity-framework-code-first-migration-seed-method/
 tags:
 - code-first
 - migration

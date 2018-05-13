@@ -2,6 +2,7 @@
 layout: post
 title: Adding External OData Feed with OAuth in Excel
 date: '2015-02-11 17:43:01'
+permalink: /adding-external-odata-data-feed-with-oauth-in-excel/
 tags:
 - webapi
 - oauth

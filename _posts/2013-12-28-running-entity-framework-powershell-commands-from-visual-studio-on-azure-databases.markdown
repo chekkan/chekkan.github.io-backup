@@ -2,6 +2,7 @@
 layout: post
 title: Running Entity Framework PowerShell commands from Visual Studio on Azure Databases
 date: '2013-12-28 20:56:00'
+permalink: /running-entity-framework-powershell-commands-from-visual-studio-on-azure-databases/
 tags:
 - azure
 - entity-framework

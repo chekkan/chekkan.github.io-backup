@@ -2,6 +2,7 @@
 layout: post
 title: Packaging SharePoint 2013 App With TFS 2013 build
 date: '2014-12-09 19:13:31'
+permalink: /packaging-sharepoint-2013-app-with-tfs-2013-build/
 tags:
 - continuous-integration
 - sharepoint-2013

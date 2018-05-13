@@ -2,6 +2,7 @@
 layout: post
 title: Deploying SharePoint Provider Hosted App as part of the TFS 2013 Build Process
 date: '2017-07-12 22:28:46'
+permalink: /deploying-sharepoint-provider-hosted-app-as-part-of-the-tfs-2013-build-process/
 tags:
 - azure
 - continuous-integration

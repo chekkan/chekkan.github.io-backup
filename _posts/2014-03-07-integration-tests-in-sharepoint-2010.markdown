@@ -2,6 +2,7 @@
 layout: post
 title: Integration Tests in SharePoint 2010
 date: '2014-03-07 12:01:00'
+permalink: /integration-tests-in-sharepoint-2010/
 tags:
 - continuous-integration
 - integration-test

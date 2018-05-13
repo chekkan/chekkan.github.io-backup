@@ -3,6 +3,7 @@ layout: post
 title: Ingesting data from Oracle DB into Elasticsearch with Logstash
 featured: true
 date: '2017-07-30 00:19:00'
+permalink: /ingesting-data-into-elasticsearch-with-logstash/
 tags:
 - elasticsearch
 - logstash
