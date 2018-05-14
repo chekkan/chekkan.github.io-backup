@@ -64,4 +64,4 @@ kubectl expose deployment kibana --type=LoadBalancer
 ```
 
 Open kibana using `minikube service kibana`.
-![Screen-Shot-2018-02-13-at-11.18.40](https://s3-eu-west-1.amazonaws.com/images.chekkan.com/Screen-Shot-2018-02-13-at-11.18.40.png)
+![Screen-Shot-2018-02-13-at-11.18.40]({{ "assets/Screen-Shot-2018-02-13-at-11.18.40.png" | absolute_url }})

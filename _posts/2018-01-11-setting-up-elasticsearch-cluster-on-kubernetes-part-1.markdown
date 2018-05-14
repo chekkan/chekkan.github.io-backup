@@ -80,7 +80,7 @@ You can then open the dashboard with command
 ```
 minikube addons open dashboard
 ```
-![Screen-Shot-2018-01-24-at-15.49.17](https://s3-eu-west-1.amazonaws.com/images.chekkan.com/Screen-Shot-2018-01-24-at-15.49.17.png)
+![Screen-Shot-2018-01-24-at-15.49.17]({{ "/assets/Screen-Shot-2018-01-24-at-15.49.17.png" | absolute_url }})
 
 ## Single Node Elasticsearch Cluster
 Let's start off by creating a single node elasticsearch cluster. According to the [elasticsearch documentation](https://www.elastic.co/guide/en/elasticsearch/reference/6.1/docker.html), the current version at the time of this writing is 6.1.1. And there are three flavours of docker images. We will just use the basic image which has xpack and free license. 
