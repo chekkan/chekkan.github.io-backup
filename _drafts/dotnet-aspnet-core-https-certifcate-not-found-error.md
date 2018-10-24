@@ -7,6 +7,7 @@ tags:
 - aspnet
 - kestrel
 - mac
+permalink: dotnet-aspnet-core-https-certifcate-not-found-error
 
 ---
 I came across this particular issue when my Mac's account was changed from a domain associated account to a local user account.
