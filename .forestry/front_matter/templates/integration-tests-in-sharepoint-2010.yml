@@ -1,13 +1,13 @@
 ---
-label: Integration Tests in SharePoint 2010
-hide_body: 
-is_partial: 
+label: Post
+hide_body: false
+is_partial: false
 fields:
 - name: layout
   label: Layout
   type: text
   hidden: false
-  default: ''
+  default: post
 - name: title
   label: Title
   type: text
