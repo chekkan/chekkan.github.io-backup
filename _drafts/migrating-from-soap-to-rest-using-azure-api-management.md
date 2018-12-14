@@ -1,7 +1,14 @@
 ---
 layout: post
 title: Migrating from SOAP to REST using Azure API Management
-tags: []
+tags:
+- WCF
+- SOAP
+- REST
+- Azure
+- API
+- dotnet
+- Azure API Management
 date: 2018-12-14 00:00:00 +0000
 permalink: migrating-from-soap-to-rest-using-azure-api-management
 
