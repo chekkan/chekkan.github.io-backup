@@ -1,5 +1,5 @@
 ---
-layout: ''
+layout: post
 title: Migrating from SOAP to REST using Azure API Management
 tags: []
 date: 2018-12-14 00:00:00 +0000
