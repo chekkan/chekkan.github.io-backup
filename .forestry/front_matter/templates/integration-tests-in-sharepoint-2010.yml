@@ -30,3 +30,4 @@ fields:
   default: ''
 pages:
 - _posts/2018-10-24-dotnet-aspnet-core-https-certifcate-not-found-error.md
+- _posts/migrating-from-soap-to-rest-using-azure-api-management.md
