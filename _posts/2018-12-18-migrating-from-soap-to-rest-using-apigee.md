@@ -3,6 +3,7 @@ title: Migrating from SOAP to REST using Apigee
 layout: post
 date: 2018-12-18 11:57:55 +0000
 tags: []
+permalink: migrating-from-soap-to-rest-using-apigee
 
 ---
 Apigee is another option for converting your SOAP services to a RESTful API. I covered Azure API management in [another blog post](https://chekkan.com/migrating-from-soap-to-rest-using-azure-api-management). I will use the same [**calculator SOAP service**](http://www.dneonline.com/calculator.asmx?wsdl) to create a SOAP to REST API proxy in Apigee.
