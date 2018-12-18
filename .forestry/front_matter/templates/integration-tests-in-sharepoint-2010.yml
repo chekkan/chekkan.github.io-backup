@@ -29,5 +29,6 @@ fields:
   hidden: false
   default: ''
 pages:
+- _posts/migrating-from-soap-to-rest-using-apigee.md
 - _posts/2018-10-24-dotnet-aspnet-core-https-certifcate-not-found-error.md
 - _posts/2018-12-14-migrating-from-soap-to-rest-using-azure-api-management.md
