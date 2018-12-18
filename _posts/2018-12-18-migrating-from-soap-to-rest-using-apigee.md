@@ -19,17 +19,15 @@ From the Apigee edge homepage, select the API Proxies tile.
 
 ![API Proxies tile](/uploads/Screen Shot 2018-12-17 at 15.44.53.png)
 
-Click the create "Proxy" button in to right hand corner to start the API Proxy creation wizard.
-![Create Proxy wizard - Options](/uploads/Screen Shot 2018-12-17 at 15.47.47.png)
+Click the create "Proxy" button in the right hand corner to start the API Proxy creation wizard. ![Create Proxy wizard - Options](/uploads/Screen Shot 2018-12-17 at 15.47.47.png)
 I have chosen the **"SOAP service"** option and selected continue.
 
 In the next screen, fill out the form as below.
-![Create proxy wizard - SOAP service](/uploads/Screen Shot 2018-12-17 at 15.49.39.png)
-The WSDL URL is the public calculator url and select **"Validate"**. There is no option to version the API at the point. That means no support for API versioning through header or query string; which are popular options in REST. So, I have included the `/v1/` in the base path and selected **Next**.
+![Create proxy wizard - SOAP service](/uploads/Screen Shot 2018-12-17 at 15.49.39.png) Enter the WSDL URL is the public calculator url and select **"Validate"**. There is no option to version the API at the point. That means no support for API versioning through header or query string; which are popular options in REST. So, I have included the `/v1/` in the base path and selected **Next**.
 
 In the following screen, specify which WSDL operations to expose in your proxy. Similar to the Azure API Management - SOAP to REST option, there is a _Pass-Through SOAP_ option as well. But, I will choose the _REST to SOAP to REST_ option. Also, notice that I have only selected the first _Port Type_.
 ![Create proxy wizard - WSDL operations](/uploads/Screen Shot 2018-12-17 at 15.53.42.png)
-The mapping has for some reason thinks that the operations other than _Add_ should be an `HTTP GET` method. _I will change these to_ `_POST_` and move to the next screen.
+The mapping has for some reason thinks that the operations other than _Add_ should be an `HTTP GET` method. I will change these to `POST` and move to the next screen.
 
 The next step is to secure access for users and clients.
 ![Create proxy wizard - secure proxy](/uploads/Screen Shot 2018-12-17 at 16.21.24.png)
